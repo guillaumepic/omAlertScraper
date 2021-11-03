@@ -32,6 +32,7 @@ g_outputFile = ""
 __version__ = "1.0"
 g_periodicThread = Timeloop()
 
+
 def f_print(log, verbose=False):
     if verbose:
         print(__file__ + " :: " + log)
@@ -40,7 +41,7 @@ def f_print(log, verbose=False):
 def check_project(name, enpoint):
     '''Brief: Get project entry and unique id in the project list of the provided
     organization endpoint'''
-    ret = False
+    projects_r = False
     try:
         projects_r = requests.get("{0}".format(enpoint),
                                   auth=HTTPDigestAuth(str(args.pubKey),
@@ -60,21 +61,20 @@ def check_project(name, enpoint):
     if projects_r:
         projects_j = projects_r.json()
         if (projects_j["name"] == g_argsSettings["ProjName"]):
-            ret = True
+            return True
 
-    return ret
+    return False
 
 
-def get_alerts(enpoint):
-    '''Brief: Get project alerts '''
-
-    ret = False
+def check_health():
+    ''' Health Monitor'''
+    health_r = False
     try:
-        alerts_r = requests.get("{0}".format(enpoint),
+        health_r = requests.get("{0}".format(g_baseUrl + "/monitor/health"),
                                 auth=HTTPDigestAuth(str(args.pubKey),
                                                     str(args.privKey)),
                                 verify=g_sslMode)
-        alerts_r.raise_for_status()
+        health_r.raise_for_status()
 
     except requests.exceptions.RequestException as err:
         print(LOG + "Bad request", err)
@@ -85,16 +85,44 @@ def get_alerts(enpoint):
     except requests.exceptions.Timeout as errt:
         print(LOG + "Timeout Error:", errt)
 
-    if alerts_r:
-        return alerts_r.json()
+    if health_r and health_r.json()["status"] == "OK":
+        return True
+    return False
+
+
+def get_alerts(enpoint):
+    '''Brief: Get project alerts '''
+
+    alerts_default = {}
+    if check_health():
+        try:
+
+            alerts_r = requests.get("{0}".format(enpoint + "/alerts/?status=OPEN"),
+                                    auth=HTTPDigestAuth(str(args.pubKey),
+                                                        str(args.privKey)),
+                                    verify=g_sslMode)
+            alerts_r.raise_for_status()
+        except requests.exceptions.RequestException as err:
+            print(LOG + "Bad request", err)
+        except requests.exceptions.HTTPError as errh:
+            print(LOG + "Http Error:", errh)
+        except requests.exceptions.ConnectionError as errc:
+            print(LOG + "Error Connecting:", errc)
+        except requests.exceptions.Timeout as errt:
+            print(LOG + "Timeout Error:", errt)
+
+        if alerts_r:
+            return alerts_r.json()
     else:
-        return {}
+        f_print("Health check Ops Manager failed ", g_verbose)
+        alerts_default["results"] = [{"id": 0, "eventTypeName": "OM_HEALTH_CHECK", "date": str(datetime.utcnow()), "status": False}]
+        return alerts_default
 
 
 @g_periodicThread.job(interval=timedelta(seconds=5))
 def collect_task():
     f_print("Periodic job current time : {}".format(str(datetime.utcnow())), g_verbose)
-    alerts = get_alerts(g_projUrl + "/alerts")
+    alerts = get_alerts(g_projUrl)
 
     # Append JSON object to output file JSON array
     try:
@@ -104,17 +132,18 @@ def collect_task():
                 f_alerts.write("//## Ops Manager project : {0}\n".format(g_argsSettings["ProjName"]))
 
             for a in alerts["results"]:
-                if a["status"] != 'CLOSED':
-                    f_print("INFO : Detected status ------------- ",g_verbose)
-                    f_print("INFO : status : " + a["status"] + "------------- ", g_verbose)
-                if a["id"] not in g_alerts_ids:
+                if a["id"] not in g_alerts_ids and a["id"] != 0:
                     g_alerts_ids.add(a["id"])
+                    f_alerts.write(",")
+                    f_alerts.write(json.dumps(a, separators=(',', ': '), indent=4))
+
+                if a["id"] == 0:
                     f_alerts.write(",")
                     f_alerts.write(json.dumps(a, separators=(',', ': '), indent=4))
 
         with open(g_outputIdFile, 'w') as f_ids:
             for i in g_alerts_ids:
-                #f_ids.write(i + " " + ",".join([str(x) for x in dict[i]]) + "\n")
+                # f_ids.write(i + " " + ",".join([str(x) for x in dict[i]]) + "\n")
                 f_ids.write(i + ",\n")
 
     except Exception as e:
@@ -230,7 +259,6 @@ if __name__ == "__main__":
     # Init : Open outputfile, parse and list all alert ids
     g_alerts_ids = set()
 
-
     # Run : TimeLoop =>
     # - Get Alerts,
     # - Detect new alert ids
@@ -238,7 +266,7 @@ if __name__ == "__main__":
     if f_init_alert_ids():
         g_periodicThread.start(block=True)
     else:
-        f_print("ERROR: Parsing alert file failure",g_verbose)
+        f_print("ERROR: Parsing alert file failure", g_verbose)
 
     f_print("bye ...", g_verbose)
     sys.exit(0)
