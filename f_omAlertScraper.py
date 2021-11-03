@@ -8,7 +8,7 @@
 #
 # GPI October 2021
 
-''' Ops Manager alert scraper '''
+""" Ops Manager alert scraper """
 
 import argparse
 import json
@@ -38,9 +38,9 @@ def f_print(log, verbose=False):
         print(__file__ + " :: " + log)
 
 
-def check_project(name, enpoint):
-    '''Brief: Get project entry and unique id in the project list of the provided
-    organization endpoint'''
+def check_project(enpoint):
+    """Brief: Get project entry and unique id in the project list of the provided
+    organization endpoint"""
     projects_r = False
     try:
         projects_r = requests.get("{0}".format(enpoint),
@@ -48,26 +48,25 @@ def check_project(name, enpoint):
                                                       str(args.privKey)),
                                   verify=g_sslMode)
         projects_r.raise_for_status()
-
-    except requests.exceptions.RequestException as err:
-        print(LOG + "Bad request", err)
     except requests.exceptions.HTTPError as errh:
         print(LOG + "Http Error:", errh)
     except requests.exceptions.ConnectionError as errc:
         print(LOG + "Error Connecting:", errc)
     except requests.exceptions.Timeout as errt:
         print(LOG + "Timeout Error:", errt)
+    except requests.exceptions.RequestException as err:
+        print(LOG + "Bad request", err)
 
     if projects_r:
         projects_j = projects_r.json()
-        if (projects_j["name"] == g_argsSettings["ProjName"]):
+        if projects_j["name"] == g_argsSettings["ProjName"]:
             return True
 
     return False
 
 
 def check_health():
-    ''' Health Monitor'''
+    """ Health Monitor"""
     health_r = False
     try:
         health_r = requests.get("{0}".format(g_baseUrl + "/monitor/health"),
@@ -75,15 +74,14 @@ def check_health():
                                                     str(args.privKey)),
                                 verify=g_sslMode)
         health_r.raise_for_status()
-
-    except requests.exceptions.RequestException as err:
-        print(LOG + "Bad request", err)
     except requests.exceptions.HTTPError as errh:
         print(LOG + "Http Error:", errh)
     except requests.exceptions.ConnectionError as errc:
         print(LOG + "Error Connecting:", errc)
     except requests.exceptions.Timeout as errt:
         print(LOG + "Timeout Error:", errt)
+    except requests.exceptions.RequestException as err:
+        print(LOG + "Bad request", err)
 
     if health_r and health_r.json()["status"] == "OK":
         return True
@@ -91,7 +89,7 @@ def check_health():
 
 
 def get_alerts(enpoint):
-    '''Brief: Get project alerts '''
+    """Brief: Get project alerts """
 
     alerts_default = {}
     if check_health():
@@ -102,17 +100,16 @@ def get_alerts(enpoint):
                                                         str(args.privKey)),
                                     verify=g_sslMode)
             alerts_r.raise_for_status()
-        except requests.exceptions.RequestException as err:
-            print(LOG + "Bad request", err)
+            if alerts_r:
+                return alerts_r.json()
         except requests.exceptions.HTTPError as errh:
             print(LOG + "Http Error:", errh)
         except requests.exceptions.ConnectionError as errc:
             print(LOG + "Error Connecting:", errc)
         except requests.exceptions.Timeout as errt:
             print(LOG + "Timeout Error:", errt)
-
-        if alerts_r:
-            return alerts_r.json()
+        except requests.exceptions.RequestException as err:
+            print(LOG + "Bad request", err)
     else:
         f_print("Health check Ops Manager failed ", g_verbose)
         alerts_default["results"] = [{"id": 0, "eventTypeName": "OM_HEALTH_CHECK", "date": str(datetime.utcnow()), "status": False}]
@@ -152,7 +149,7 @@ def collect_task():
 
 
 def f_init_alert_ids():
-    '''Brief: Parse existing alerts objects and extract a set of alert ids '''
+    """Brief: Parse existing alerts objects and extract a set of alert ids """
     res = True
     try:
         # with open(g_outputFile, 'r') as f_alerts:
@@ -249,7 +246,7 @@ if __name__ == "__main__":
     g_projUrl = g_rootUrl + "groups/" + str(g_argsSettings["ProjID"])
 
     # Check project exists
-    if check_project(g_argsSettings["ProjName"], g_projUrl):
+    if check_project(g_projUrl):
         f_print("Scraping alerts for Project: " + g_argsSettings["ProjName"], g_verbose)
         f_print("Detected alerts will be collected in output file: " + g_outputFile, g_verbose)
     else:
