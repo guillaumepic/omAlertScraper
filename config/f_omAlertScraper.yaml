@@ -1,0 +1,18 @@
+link:
+  mmsBaseURL: "https://opsmanager.hostname.com:8443"
+  pubKey: "xxxx"
+  privKey: "xxxx"
+  sslMode: True
+  sslCAFile: "/foo/bar/mongodb-ca.pem"
+
+topology:
+  projectId: "5f7c5cc1e306913dd6fed87f"
+  projectName: "Project Name "
+
+output:
+  alert_filePath : "/foo/bar/omAlertScraper/log/alerts.json"
+  id_filePath : "/foo/bar/omAlertScraper/log/alerts_ids.json"
+
+param:
+  period: "10"
+
