@@ -1,7 +1,7 @@
 //## Alert collection file created November 03, 2021,
 //## Ops Manager project : Workspace 01
-,{
-    "hostnameAndPort": "ip-172-31-2-236.eu-west-2.compute.internal:27017",
+{
+    "hostnameAndPort": "ip-node.member.domain.com:27017",
     "status": "OPEN",
     "updated": "2021-10-29T15:53:06Z",
     "hostId": "da32db3bda0a35aac1094f3b7db188d7",
@@ -20,7 +20,7 @@
     "replicaSetName": "rsMO5",
     "groupId": "4f7c8cf1e3012913dfed97g"
 },{
-    "hostnameAndPort": "ip-172-31-2-236.eu-west-2.compute.internal:27107",
+    "hostnameAndPort": "ip-node.member.domain.com:27107",
     "status": "OPEN",
     "currentValue": {
         "units": "RAW",
@@ -115,7 +115,7 @@
     "groupId": "4f7c8cf1e3012913dfed97g",
     "metricName": "CONNECTIONS"
 },{
-    "hostnameAndPort": "ip-172-31-2-236.eu-west-2.compute.internal:27019",
+    "hostnameAndPort": "ip-node.member.domain.com:27019",
     "status": "OPEN",
     "currentValue": {
         "units": "RAW",
@@ -187,7 +187,7 @@
     "groupId": "4f7c8cf1e3012913dfed97g",
     "metricName": "CONNECTIONS"
 },{
-    "hostnameAndPort": "ip-172-31-2-236.eu-west-2.compute.internal:27007",
+    "hostnameAndPort": "ip-node.member.domain.com:27007",
     "status": "OPEN",
     "currentValue": {
         "units": "RAW",
