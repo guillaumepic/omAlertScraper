@@ -44,8 +44,8 @@ def check_project(enpoint):
     projects_r = False
     try:
         projects_r = requests.get("{0}".format(enpoint),
-                                  auth=HTTPDigestAuth(str(args.pubKey),
-                                                      str(args.privKey)),
+                                  auth=HTTPDigestAuth(g_argsSettings["pubKey"],
+                                                      g_argsSettings["privKey"]),
                                   verify=g_sslMode)
         projects_r.raise_for_status()
     except requests.exceptions.HTTPError as errh:
@@ -70,8 +70,8 @@ def check_health():
     health_r = False
     try:
         health_r = requests.get("{0}".format(g_baseUrl + "/monitor/health"),
-                                auth=HTTPDigestAuth(str(args.pubKey),
-                                                    str(args.privKey)),
+                                auth=HTTPDigestAuth(g_argsSettings["pubKey"],
+                                                    g_argsSettings["privKey"]),
                                 verify=g_sslMode)
         health_r.raise_for_status()
     except requests.exceptions.HTTPError as errh:
@@ -96,8 +96,8 @@ def get_alerts(enpoint):
         try:
 
             alerts_r = requests.get("{0}".format(enpoint + "/alerts/?status=OPEN"),
-                                    auth=HTTPDigestAuth(str(args.pubKey),
-                                                        str(args.privKey)),
+                                    auth=HTTPDigestAuth(g_argsSettings["pubKey"],
+                                                        g_argsSettings["privKey"]),
                                     verify=g_sslMode)
             alerts_r.raise_for_status()
             if alerts_r:
@@ -112,7 +112,8 @@ def get_alerts(enpoint):
             print(LOG + "Bad request", err)
     else:
         f_print("Health check Ops Manager failed ", g_verbose)
-        alerts_default["results"] = [{"id": 0, "eventTypeName": "OM_HEALTH_CHECK", "date": str(datetime.utcnow()), "status": False}]
+        alerts_default["results"] = [
+            {"id": 0, "eventTypeName": "OM_HEALTH_CHECK", "date": str(datetime.utcnow()), "status": False}]
         return alerts_default
 
 
@@ -131,14 +132,14 @@ def collect_task():
             for a in alerts["results"]:
                 if a["id"] not in g_alerts_ids and a["id"] != 0:
                     g_alerts_ids.add(a["id"])
-                    f_alerts.write(",")
+                    # f_alerts.write(",") # Note : should add for json compliance
                     f_alerts.write(json.dumps(a, separators=(',', ': '), indent=4))
 
                 if a["id"] == 0:
                     f_alerts.write(",")
                     f_alerts.write(json.dumps(a, separators=(',', ': '), indent=4))
 
-        with open(g_outputIdFile, 'w') as f_ids:
+        with open(g_outputIdFile, 'w+') as f_ids:
             for i in g_alerts_ids:
                 # f_ids.write(i + " " + ",".join([str(x) for x in dict[i]]) + "\n")
                 f_ids.write(i + ",\n")
@@ -162,8 +163,8 @@ def f_init_alert_ids():
         #             f_print("Got an alert object id: " + a)
         #             g_alerts_ids.add(a)
 
-        if not os.stat(g_outputIdFile).st_size == 0:
-            with open(g_outputIdFile, 'r') as f_ids:
+        if os.path.exists(g_outputIdFile) is True and not os.stat(g_outputIdFile).st_size == 0:
+            with open(g_outputIdFile, 'r+') as f_ids:
                 for line in f_ids:
                     id_alert = line.split(",")
                     g_alerts_ids.add(str(id_alert[0]))
@@ -179,14 +180,12 @@ def f_init_alert_ids():
 
 if __name__ == "__main__":
 
-    parser = argparse.ArgumentParser(description="http Ops Manager proxy rest-end point for scraping Alerts objects")
+    parser = argparse.ArgumentParser(description="http Ops Manager proxy rest-end point for scraping alerts objects")
     required = parser.add_argument_group("Required arguments")
     required.add_argument("--url",
-                          help="Ops Manager base url",
-                          required=True)
-    required.add_argument("--pubKey", help="OpsManager user public key",
-                          required=True)
-    required.add_argument("--privKey", help="API key to use", required=True)
+                          help="Ops Manager base url (recommend config option)")
+    required.add_argument("--pubKey", help="OpsManager user public key (recommend config option)")
+    required.add_argument("--privKey", help="Ops Manager user private key (recommend config option)")
     required.add_argument("--cfg", help="Configuration yaml file",
                           required=True,
                           default="f_omAlertScraper.yml")
@@ -207,6 +206,27 @@ if __name__ == "__main__":
         cfg = yaml.safe_load(open(str(args.cfg)))
         g_argsSettings["ProjID"] = cfg["topology"]["projectId"]
         g_argsSettings["ProjName"] = cfg["topology"]["projectName"]
+
+        if cfg["link"]["mmsBaseURL"]:
+            g_argsSettings["mmsBaseURL"] = str(cfg["link"]["mmsBaseURL"])
+        elif args.url:
+            g_argsSettings["mmsBaseURL"] = str(args.url)
+        else:
+            f_print("WARNING mmsBaseURL not found", g_verbose)
+            sys.exit(0)
+
+        if cfg["link"]["pubKey"] and cfg["link"]["privKey"]:
+            f_print("INFO using config options : public/private keys ", g_verbose)
+            g_argsSettings["pubKey"] = str(cfg["link"]["pubKey"])
+            g_argsSettings["privKey"] = str(cfg["link"]["privKey"])
+        elif args.pubKey and args.privKey:
+            f_print("INFO using inline options : public/private keys ", g_verbose)
+            g_argsSettings["pubKey"] = str(args.pubKey)
+            g_argsSettings["privKey"] = str(args.privKey)
+        else:
+            f_print("WARNING public/private keys are not found", g_verbose)
+            sys.exit(0)
+
         if cfg["link"]["sslMode"]:
             g_sslMode = cfg["link"]["sslMode"]
             if g_sslMode:
@@ -241,7 +261,7 @@ if __name__ == "__main__":
         sys.exit(1)
 
     # Endpoints
-    g_baseUrl = str(args.url)
+    g_baseUrl = g_argsSettings["mmsBaseURL"]
     g_rootUrl = g_baseUrl + g_rootUrl
     g_projUrl = g_rootUrl + "groups/" + str(g_argsSettings["ProjID"])
 
