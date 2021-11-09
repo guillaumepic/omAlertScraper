@@ -12,12 +12,17 @@ GPI - Oct 2021
 
 ### Objectif
 - Adapting file output format to third party utilities
-- Sample : nimsoft/ netcool (legacy utilities at BNPP)
+- Sample : nimsoft / netcool (legacy utilities at BNPP)
 
 ## Capacity
 - version 1.0: 
   - scrap alerts for 1 project - 1 cluster 
   - default output file gathering json objects
+
+- TODO
+  - Format adapter function for output alert entries
+  - Docker 
+  - python 3
   
 ## Usage
 ### Inline 
