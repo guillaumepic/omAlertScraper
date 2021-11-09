@@ -7,7 +7,7 @@
     "lastNotified": "2020-10-19T08:03:22Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5f8d3d42bf1c7648f72dafd9",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5f8d3d42bf1c7648f72dafd9",
             "rel": "self"
         }
     ],
@@ -20,7 +20,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-10-19T08:03:15Z",
@@ -29,7 +29,7 @@
     "lastNotified": "2020-10-19T08:03:22Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5f8d3d42bf1c7648f72dafdb",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5f8d3d42bf1c7648f72dafdb",
             "rel": "self"
         }
     ],
@@ -42,7 +42,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-10-19T07:57:15Z",
@@ -51,7 +51,7 @@
     "lastNotified": "2020-10-19T07:57:22Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5f8d3d42bf1c7648f72dafdd",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5f8d3d42bf1c7648f72dafdd",
             "rel": "self"
         }
     ],
@@ -62,7 +62,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "5f8d3d42bf1c7648f72dafdd",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-10-19T08:14:15Z",
@@ -70,7 +70,7 @@
     "updated": "2020-10-19T08:14:15Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5f8d4a9bbf1c7648f72e66fa",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5f8d4a9bbf1c7648f72e66fa",
             "rel": "self"
         }
     ],
@@ -78,7 +78,7 @@
     "eventTypeName": "BACKUP_AGENT_DOWN",
     "alertConfigId": "5f86b2041a779c06a3174d19",
     "lastNotified": "2020-10-19T08:14:23Z",
-    "groupId": "5f7c5cc1e306913dd6fed87f",
+    "groupId": "4f7c8cf1e3012913dfed97g",
     "typeName": "AGENT",
     "id": "5f8d4a9bbf1c7648f72e66fa"
 },
@@ -89,7 +89,7 @@
     "lastNotified": "2020-10-26T14:03:21Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5f96d35fc306a97f82bbdf3b",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5f96d35fc306a97f82bbdf3b",
             "rel": "self"
         }
     ],
@@ -102,7 +102,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-10-26T14:03:12Z",
@@ -111,7 +111,7 @@
     "lastNotified": "2020-10-26T14:03:21Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5f96d35fc306a97f82bbdf3d",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5f96d35fc306a97f82bbdf3d",
             "rel": "self"
         }
     ],
@@ -124,7 +124,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-10-26T13:58:12Z",
@@ -133,7 +133,7 @@
     "lastNotified": "2020-10-26T13:58:21Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5f96d35fc306a97f82bbdf3f",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5f96d35fc306a97f82bbdf3f",
             "rel": "self"
         }
     ],
@@ -144,7 +144,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "5f96d35fc306a97f82bbdf3f",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "acknowledgingUsername": "opsmgr@example.com",
@@ -153,7 +153,7 @@
     "lastNotified": "2020-11-02T08:44:21Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5f9fc13b35759f36d23a2b52",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5f9fc13b35759f36d23a2b52",
             "rel": "self"
         }
     ],
@@ -168,7 +168,7 @@
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
     "typeName": "BACKUP",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "acknowledgingUsername": "opsmgr@example.com",
@@ -177,7 +177,7 @@
     "lastNotified": "2020-11-02T08:44:21Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5f9fc13b35759f36d23a2b54",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5f9fc13b35759f36d23a2b54",
             "rel": "self"
         }
     ],
@@ -192,7 +192,7 @@
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
     "typeName": "BACKUP",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-11-02T08:37:12Z",
@@ -201,7 +201,7 @@
     "lastNotified": "2020-11-02T08:37:21Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5f9fc13b35759f36d23a2b56",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5f9fc13b35759f36d23a2b56",
             "rel": "self"
         }
     ],
@@ -212,7 +212,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "5f9fc13b35759f36d23a2b56",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-11-06T08:44:12Z",
@@ -221,7 +221,7 @@
     "lastNotified": "2020-11-06T08:44:17Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fa42b2835759f36d2581113",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fa42b2835759f36d2581113",
             "rel": "self"
         }
     ],
@@ -234,7 +234,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-11-06T08:43:12Z",
@@ -243,7 +243,7 @@
     "lastNotified": "2020-11-06T08:43:17Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fa42b6435759f36d25812e3",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fa42b6435759f36d25812e3",
             "rel": "self"
         }
     ],
@@ -256,7 +256,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-11-06T08:29:12Z",
@@ -264,7 +264,7 @@
     "updated": "2020-11-06T08:29:12Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fa508a435759f36d25e829d",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fa508a435759f36d25e829d",
             "rel": "self"
         }
     ],
@@ -272,7 +272,7 @@
     "eventTypeName": "MONITORING_AGENT_DOWN",
     "alertConfigId": "5f7c5cc1e306913dd6fed880",
     "lastNotified": "2020-11-06T08:29:12Z",
-    "groupId": "5f7c5cc1e306913dd6fed87f",
+    "groupId": "4f7c8cf1e3012913dfed97g",
     "typeName": "AGENT",
     "id": "5fa508a435759f36d25e829d"
 },
@@ -282,7 +282,7 @@
     "updated": "2020-11-06T08:40:12Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fa50b7435759f36d25e9195",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fa50b7435759f36d25e9195",
             "rel": "self"
         }
     ],
@@ -290,7 +290,7 @@
     "eventTypeName": "BACKUP_AGENT_DOWN",
     "alertConfigId": "5f86b2041a779c06a3174d19",
     "lastNotified": "2020-11-06T08:40:17Z",
-    "groupId": "5f7c5cc1e306913dd6fed87f",
+    "groupId": "4f7c8cf1e3012913dfed97g",
     "typeName": "AGENT",
     "id": "5fa50b7435759f36d25e9195"
 },
@@ -301,7 +301,7 @@
     "lastNotified": "2020-11-06T08:43:17Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fa50c2835759f36d25e9638",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fa50c2835759f36d25e9638",
             "rel": "self"
         }
     ],
@@ -312,7 +312,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "5fa50c2835759f36d25e9638",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-11-12T09:14:23Z",
@@ -321,7 +321,7 @@
     "lastNotified": "2020-11-12T09:14:32Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5facf83e336705035680b2c4",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5facf83e336705035680b2c4",
             "rel": "self"
         }
     ],
@@ -334,7 +334,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-11-12T09:05:23Z",
@@ -343,7 +343,7 @@
     "lastNotified": "2020-11-12T09:05:32Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5facf83e336705035680b2c6",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5facf83e336705035680b2c6",
             "rel": "self"
         }
     ],
@@ -356,7 +356,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-11-12T09:00:22Z",
@@ -365,7 +365,7 @@
     "lastNotified": "2020-11-12T09:00:32Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5facf83e336705035680b2c8",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5facf83e336705035680b2c8",
             "rel": "self"
         }
     ],
@@ -376,7 +376,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "5facf83e336705035680b2c8",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-11-12T17:05:56Z",
@@ -385,7 +385,7 @@
     "lastNotified": "2020-11-12T17:06:06Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fad53535a2cfc5e4e114e7a",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fad53535a2cfc5e4e114e7a",
             "rel": "self"
         }
     ],
@@ -398,7 +398,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-11-12T17:04:56Z",
@@ -407,7 +407,7 @@
     "lastNotified": "2020-11-12T17:05:06Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fad53535a2cfc5e4e114e7c",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fad53535a2cfc5e4e114e7c",
             "rel": "self"
         }
     ],
@@ -420,7 +420,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-11-12T17:04:56Z",
@@ -429,7 +429,7 @@
     "lastNotified": "2020-11-12T17:05:06Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fad6afc5a2cfc5e4e11fdef",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fad6afc5a2cfc5e4e11fdef",
             "rel": "self"
         }
     ],
@@ -440,7 +440,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "5fad6afc5a2cfc5e4e11fdef",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-11-17T12:56:50Z",
@@ -449,7 +449,7 @@
     "lastNotified": "2020-11-17T12:56:58Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fb3bd1986667272c3196344",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fb3bd1986667272c3196344",
             "rel": "self"
         }
     ],
@@ -462,7 +462,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-11-17T12:56:50Z",
@@ -471,7 +471,7 @@
     "lastNotified": "2020-11-17T12:56:58Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fb3bd1986667272c3196346",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fb3bd1986667272c3196346",
             "rel": "self"
         }
     ],
@@ -484,7 +484,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-11-17T12:51:50Z",
@@ -493,7 +493,7 @@
     "lastNotified": "2020-11-17T12:51:58Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fb3bd1986667272c3196348",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fb3bd1986667272c3196348",
             "rel": "self"
         }
     ],
@@ -504,7 +504,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "5fb3bd1986667272c3196348",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-11-23T08:31:43Z",
@@ -513,7 +513,7 @@
     "lastNotified": "2020-11-23T08:31:52Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fbb709e190cb631ae308a86",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fbb709e190cb631ae308a86",
             "rel": "self"
         }
     ],
@@ -526,7 +526,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-11-23T08:31:43Z",
@@ -535,7 +535,7 @@
     "lastNotified": "2020-11-23T08:31:52Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fbb709e190cb631ae308a88",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fbb709e190cb631ae308a88",
             "rel": "self"
         }
     ],
@@ -548,7 +548,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-11-23T08:24:43Z",
@@ -557,7 +557,7 @@
     "lastNotified": "2020-11-23T08:24:52Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fbb709e190cb631ae308a8a",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fbb709e190cb631ae308a8a",
             "rel": "self"
         }
     ],
@@ -568,7 +568,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "5fbb709e190cb631ae308a8a",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "acknowledgingUsername": "opsmgr@example.com",
@@ -577,7 +577,7 @@
     "lastNotified": "2020-12-01T09:03:41Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fc5f860cc7b0a0265bf1e53",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fc5f860cc7b0a0265bf1e53",
             "rel": "self"
         }
     ],
@@ -592,7 +592,7 @@
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
     "typeName": "BACKUP",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "acknowledgingUsername": "opsmgr@example.com",
@@ -601,7 +601,7 @@
     "lastNotified": "2020-12-01T09:03:41Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fc5f860cc7b0a0265bf1e55",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fc5f860cc7b0a0265bf1e55",
             "rel": "self"
         }
     ],
@@ -616,7 +616,7 @@
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
     "typeName": "BACKUP",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "acknowledgingUsername": "opsmgr@example.com",
@@ -625,7 +625,7 @@
     "lastNotified": "2020-12-01T08:57:41Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fc5f860cc7b0a0265bf1e57",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fc5f860cc7b0a0265bf1e57",
             "rel": "self"
         }
     ],
@@ -638,7 +638,7 @@
     "status": "CLOSED",
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-12-07T11:00:29Z",
@@ -647,7 +647,7 @@
     "lastNotified": "2020-12-07T11:00:38Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fcdeb305907fa4a11ec2d36",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fcdeb305907fa4a11ec2d36",
             "rel": "self"
         }
     ],
@@ -660,7 +660,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-12-07T10:59:29Z",
@@ -669,7 +669,7 @@
     "lastNotified": "2020-12-07T10:59:38Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fcdeb305907fa4a11ec2d38",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fcdeb305907fa4a11ec2d38",
             "rel": "self"
         }
     ],
@@ -682,7 +682,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-12-07T10:53:29Z",
@@ -691,7 +691,7 @@
     "lastNotified": "2020-12-07T10:53:38Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fcdeb305907fa4a11ec2d3a",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fcdeb305907fa4a11ec2d3a",
             "rel": "self"
         }
     ],
@@ -702,7 +702,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "5fcdeb305907fa4a11ec2d3a",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "acknowledgingUsername": "opsmgr@example.com",
@@ -715,7 +715,7 @@
     "lastNotified": "2020-12-08T23:40:33Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fcf66695907fa4a11f8c019",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fcf66695907fa4a11f8c019",
             "rel": "self"
         }
     ],
@@ -729,7 +729,7 @@
     "status": "CLOSED",
     "resolved": "2020-12-08T23:40:25Z",
     "replicaSetName": "rsGPI_1",
-    "groupId": "5f7c5cc1e306913dd6fed87f",
+    "groupId": "4f7c8cf1e3012913dfed97g",
     "metricName": "OPLOG_MASTER_TIME"
 },
 {
@@ -739,7 +739,7 @@
     "lastNotified": "2020-12-14T08:59:39Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fd72756c9cc08268b64c842",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fd72756c9cc08268b64c842",
             "rel": "self"
         }
     ],
@@ -752,7 +752,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-12-14T08:59:31Z",
@@ -761,7 +761,7 @@
     "lastNotified": "2020-12-14T08:59:39Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fd72756c9cc08268b64c844",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fd72756c9cc08268b64c844",
             "rel": "self"
         }
     ],
@@ -774,7 +774,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI_1",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-12-14T08:57:31Z",
@@ -783,7 +783,7 @@
     "lastNotified": "2020-12-14T08:57:39Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fd72756c9cc08268b64c846",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fd72756c9cc08268b64c846",
             "rel": "self"
         }
     ],
@@ -796,7 +796,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-12-14T08:52:30Z",
@@ -805,7 +805,7 @@
     "lastNotified": "2020-12-14T08:52:39Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fd72756c9cc08268b64c848",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fd72756c9cc08268b64c848",
             "rel": "self"
         }
     ],
@@ -816,7 +816,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "5fd72756c9cc08268b64c848",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-01-05T08:38:54Z",
@@ -825,7 +825,7 @@
     "lastNotified": "2021-01-05T08:39:03Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fdc7c9ba4fa0d753bc3068e",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fdc7c9ba4fa0d753bc3068e",
             "rel": "self"
         }
     ],
@@ -838,7 +838,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-01-05T08:38:54Z",
@@ -847,7 +847,7 @@
     "lastNotified": "2021-01-05T08:39:03Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fdc7c9ba4fa0d753bc30690",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fdc7c9ba4fa0d753bc30690",
             "rel": "self"
         }
     ],
@@ -860,7 +860,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI_1",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-01-05T08:39:54Z",
@@ -869,7 +869,7 @@
     "lastNotified": "2021-01-05T08:40:03Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fdc7c9ba4fa0d753bc30692",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fdc7c9ba4fa0d753bc30692",
             "rel": "self"
         }
     ],
@@ -882,7 +882,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-01-05T08:33:53Z",
@@ -891,7 +891,7 @@
     "lastNotified": "2021-01-05T08:34:03Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fdc7c9ba4fa0d753bc30694",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fdc7c9ba4fa0d753bc30694",
             "rel": "self"
         }
     ],
@@ -902,7 +902,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "5fdc7c9ba4fa0d753bc30694",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-01-13T09:23:27Z",
@@ -911,7 +911,7 @@
     "lastNotified": "2021-01-13T09:23:36Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5ffeb902560b884c3885ff7e",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5ffeb902560b884c3885ff7e",
             "rel": "self"
         }
     ],
@@ -924,7 +924,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-01-13T09:23:27Z",
@@ -933,7 +933,7 @@
     "lastNotified": "2021-01-13T09:23:36Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5ffeb902560b884c3885ff80",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5ffeb902560b884c3885ff80",
             "rel": "self"
         }
     ],
@@ -946,7 +946,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI_1",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-01-13T09:21:27Z",
@@ -955,7 +955,7 @@
     "lastNotified": "2021-01-13T09:21:36Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5ffeb902560b884c3885ff82",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5ffeb902560b884c3885ff82",
             "rel": "self"
         }
     ],
@@ -968,7 +968,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-01-13T09:15:27Z",
@@ -977,7 +977,7 @@
     "lastNotified": "2021-01-13T09:15:36Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5ffeb902560b884c3885ff84",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5ffeb902560b884c3885ff84",
             "rel": "self"
         }
     ],
@@ -988,7 +988,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "5ffeb902560b884c3885ff84",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-01-26T10:33:40Z",
@@ -997,7 +997,7 @@
     "lastNotified": "2021-01-26T10:33:47Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/600fe2e1aa1382082e410c53",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/600fe2e1aa1382082e410c53",
             "rel": "self"
         }
     ],
@@ -1010,7 +1010,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-01-26T10:33:40Z",
@@ -1019,7 +1019,7 @@
     "lastNotified": "2021-01-26T10:33:47Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/600fe2e1aa1382082e410c55",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/600fe2e1aa1382082e410c55",
             "rel": "self"
         }
     ],
@@ -1032,7 +1032,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI_1",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-01-26T10:33:40Z",
@@ -1041,7 +1041,7 @@
     "lastNotified": "2021-01-26T10:33:47Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/600fe2e1aa1382082e410c57",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/600fe2e1aa1382082e410c57",
             "rel": "self"
         }
     ],
@@ -1054,7 +1054,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-01-26T10:27:40Z",
@@ -1063,7 +1063,7 @@
     "lastNotified": "2021-01-26T10:27:47Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/600fe2e1aa1382082e410c59",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/600fe2e1aa1382082e410c59",
             "rel": "self"
         }
     ],
@@ -1074,7 +1074,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "600fe2e1aa1382082e410c59",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-02-01T09:37:14Z",
@@ -1083,7 +1083,7 @@
     "lastNotified": "2021-02-01T09:37:22Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6017c44ef9a83d40d5f50011",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6017c44ef9a83d40d5f50011",
             "rel": "self"
         }
     ],
@@ -1096,7 +1096,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-02-01T09:37:14Z",
@@ -1105,7 +1105,7 @@
     "lastNotified": "2021-02-01T09:37:22Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6017c44ef9a83d40d5f50013",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6017c44ef9a83d40d5f50013",
             "rel": "self"
         }
     ],
@@ -1118,7 +1118,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI_1",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-02-01T09:36:14Z",
@@ -1127,7 +1127,7 @@
     "lastNotified": "2021-02-01T09:36:22Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6017c44ef9a83d40d5f50015",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6017c44ef9a83d40d5f50015",
             "rel": "self"
         }
     ],
@@ -1140,7 +1140,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-02-01T09:30:14Z",
@@ -1149,7 +1149,7 @@
     "lastNotified": "2021-02-01T09:30:22Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6017c44ef9a83d40d5f50017",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6017c44ef9a83d40d5f50017",
             "rel": "self"
         }
     ],
@@ -1160,7 +1160,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "6017c44ef9a83d40d5f50017",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-02-09T08:47:53Z",
@@ -1169,7 +1169,7 @@
     "lastNotified": "2021-02-09T08:48:01Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/602244b7a0c0a4055071fbfd",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/602244b7a0c0a4055071fbfd",
             "rel": "self"
         }
     ],
@@ -1182,7 +1182,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-02-09T08:47:53Z",
@@ -1191,7 +1191,7 @@
     "lastNotified": "2021-02-09T08:48:01Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/602244b7a0c0a4055071fc00",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/602244b7a0c0a4055071fc00",
             "rel": "self"
         }
     ],
@@ -1204,7 +1204,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI_1",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-02-09T08:48:53Z",
@@ -1213,7 +1213,7 @@
     "lastNotified": "2021-02-09T08:49:01Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/602244b7a0c0a4055071fc02",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/602244b7a0c0a4055071fc02",
             "rel": "self"
         }
     ],
@@ -1226,7 +1226,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-02-09T08:41:53Z",
@@ -1235,7 +1235,7 @@
     "lastNotified": "2021-02-09T08:42:01Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/602244b7a0c0a4055071fc06",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/602244b7a0c0a4055071fc06",
             "rel": "self"
         }
     ],
@@ -1246,7 +1246,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "602244b7a0c0a4055071fc06",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-02-15T10:51:05Z",
@@ -1255,7 +1255,7 @@
     "lastNotified": "2021-02-15T10:51:14Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/602a4f843645536f99984c66",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/602a4f843645536f99984c66",
             "rel": "self"
         }
     ],
@@ -1268,7 +1268,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-02-15T10:50:05Z",
@@ -1277,7 +1277,7 @@
     "lastNotified": "2021-02-15T10:50:14Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/602a4f843645536f99984c68",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/602a4f843645536f99984c68",
             "rel": "self"
         }
     ],
@@ -1290,7 +1290,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI_1",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-02-15T10:50:05Z",
@@ -1299,7 +1299,7 @@
     "lastNotified": "2021-02-15T10:50:14Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/602a4f843645536f99984c6a",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/602a4f843645536f99984c6a",
             "rel": "self"
         }
     ],
@@ -1312,7 +1312,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-02-15T10:44:04Z",
@@ -1321,7 +1321,7 @@
     "lastNotified": "2021-02-15T10:44:13Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/602a4f843645536f99984c6c",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/602a4f843645536f99984c6c",
             "rel": "self"
         }
     ],
@@ -1332,7 +1332,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "602a4f843645536f99984c6c",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-02-23T09:44:51Z",
@@ -1341,7 +1341,7 @@
     "lastNotified": "2021-02-23T09:44:58Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6034bfd19f942f2ffe15a79e",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6034bfd19f942f2ffe15a79e",
             "rel": "self"
         }
     ],
@@ -1354,7 +1354,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-02-23T09:43:51Z",
@@ -1363,7 +1363,7 @@
     "lastNotified": "2021-02-23T09:43:58Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6034bfd19f942f2ffe15a7a0",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6034bfd19f942f2ffe15a7a0",
             "rel": "self"
         }
     ],
@@ -1376,7 +1376,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI_1",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-02-23T09:42:51Z",
@@ -1385,7 +1385,7 @@
     "lastNotified": "2021-02-23T09:42:58Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6034bfd19f942f2ffe15a7a2",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6034bfd19f942f2ffe15a7a2",
             "rel": "self"
         }
     ],
@@ -1398,7 +1398,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-02-23T09:37:51Z",
@@ -1407,7 +1407,7 @@
     "lastNotified": "2021-02-23T09:37:58Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6034bfd19f942f2ffe15a7a4",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6034bfd19f942f2ffe15a7a4",
             "rel": "self"
         }
     ],
@@ -1418,7 +1418,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "6034bfd19f942f2ffe15a7a4",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "acknowledgingUsername": "opsmgr@example.com",
@@ -1427,7 +1427,7 @@
     "lastNotified": "2021-03-01T08:50:52Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/603ca5f78d0e2b41ecc77d2b",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/603ca5f78d0e2b41ecc77d2b",
             "rel": "self"
         }
     ],
@@ -1442,7 +1442,7 @@
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
     "typeName": "BACKUP",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "acknowledgingUsername": "opsmgr@example.com",
@@ -1451,7 +1451,7 @@
     "lastNotified": "2021-03-01T08:49:52Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/603ca5f78d0e2b41ecc77d2d",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/603ca5f78d0e2b41ecc77d2d",
             "rel": "self"
         }
     ],
@@ -1466,7 +1466,7 @@
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI_1",
     "typeName": "BACKUP",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "acknowledgingUsername": "opsmgr@example.com",
@@ -1475,7 +1475,7 @@
     "lastNotified": "2021-03-01T08:49:52Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/603ca5f78d0e2b41ecc77d2f",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/603ca5f78d0e2b41ecc77d2f",
             "rel": "self"
         }
     ],
@@ -1490,7 +1490,7 @@
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
     "typeName": "BACKUP",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-03-01T08:43:43Z",
@@ -1499,7 +1499,7 @@
     "lastNotified": "2021-03-01T08:43:52Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/603ca5f78d0e2b41ecc77d31",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/603ca5f78d0e2b41ecc77d31",
             "rel": "self"
         }
     ],
@@ -1510,7 +1510,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "603ca5f78d0e2b41ecc77d31",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-03-08T08:44:43Z",
@@ -1519,7 +1519,7 @@
     "lastNotified": "2021-03-08T08:44:52Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6045e0b2c5066268f67c0fb5",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6045e0b2c5066268f67c0fb5",
             "rel": "self"
         }
     ],
@@ -1532,7 +1532,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-03-08T08:43:43Z",
@@ -1541,7 +1541,7 @@
     "lastNotified": "2021-03-08T08:43:52Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6045e0b2c5066268f67c0fb7",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6045e0b2c5066268f67c0fb7",
             "rel": "self"
         }
     ],
@@ -1554,7 +1554,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI_1",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-03-08T08:44:43Z",
@@ -1563,7 +1563,7 @@
     "lastNotified": "2021-03-08T08:44:52Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6045e0b2c5066268f67c0fb9",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6045e0b2c5066268f67c0fb9",
             "rel": "self"
         }
     ],
@@ -1576,7 +1576,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-03-08T08:37:43Z",
@@ -1585,7 +1585,7 @@
     "lastNotified": "2021-03-08T08:37:51Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6045e0b2c5066268f67c0fbb",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6045e0b2c5066268f67c0fbb",
             "rel": "self"
         }
     ],
@@ -1596,7 +1596,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "6045e0b2c5066268f67c0fbb",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-03-16T08:19:34Z",
@@ -1605,7 +1605,7 @@
     "lastNotified": "2021-03-16T08:19:43Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/605065a1d99c976b72516ae5",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/605065a1d99c976b72516ae5",
             "rel": "self"
         }
     ],
@@ -1618,7 +1618,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-03-16T08:20:34Z",
@@ -1627,7 +1627,7 @@
     "lastNotified": "2021-03-16T08:20:43Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/605065a1d99c976b72516ae7",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/605065a1d99c976b72516ae7",
             "rel": "self"
         }
     ],
@@ -1640,7 +1640,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI_1",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-03-16T08:19:34Z",
@@ -1649,7 +1649,7 @@
     "lastNotified": "2021-03-16T08:19:43Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/605065a1d99c976b72516ae9",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/605065a1d99c976b72516ae9",
             "rel": "self"
         }
     ],
@@ -1662,7 +1662,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-03-16T08:13:34Z",
@@ -1671,7 +1671,7 @@
     "lastNotified": "2021-03-16T08:13:43Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/605065a1d99c976b72516aeb",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/605065a1d99c976b72516aeb",
             "rel": "self"
         }
     ],
@@ -1682,7 +1682,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "605065a1d99c976b72516aeb",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-03-17T10:08:47Z",
@@ -1691,7 +1691,7 @@
     "lastNotified": "2021-03-17T10:08:53Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6051c0cdd5c3893c5a917c02",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6051c0cdd5c3893c5a917c02",
             "rel": "self"
         }
     ],
@@ -1702,7 +1702,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "6051c0cdd5c3893c5a917c02",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-03-23T10:16:57Z",
@@ -1711,7 +1711,7 @@
     "lastNotified": "2021-03-23T10:17:06Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6059bf289c0197483f3fade4",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6059bf289c0197483f3fade4",
             "rel": "self"
         }
     ],
@@ -1722,7 +1722,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "6059bf289c0197483f3fade4",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-03-29T07:28:01Z",
@@ -1731,7 +1731,7 @@
     "lastNotified": "2021-03-29T07:28:10Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/60617e74758bda0381b81e8b",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/60617e74758bda0381b81e8b",
             "rel": "self"
         }
     ],
@@ -1742,7 +1742,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "60617e74758bda0381b81e8b",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "hostnameAndPort": "ip-172-31-5-118.eu-west-2.compute.internal:27019",
@@ -1754,7 +1754,7 @@
     "hostId": "852df2f20d5ba69c329b4336871b8fe3",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/60618109758bda0381b85039",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/60618109758bda0381b85039",
             "rel": "self"
         }
     ],
@@ -1767,7 +1767,7 @@
     "typeName": "HOST_METRIC",
     "status": "CLOSED",
     "replicaSetName": "cfgGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f",
+    "groupId": "4f7c8cf1e3012913dfed97g",
     "metricName": "OPLOG_MASTER_TIME"
 },
 {
@@ -1777,7 +1777,7 @@
     "lastNotified": "2021-03-29T11:55:05Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6061be33758bda0381ba1c0a",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6061be33758bda0381ba1c0a",
             "rel": "self"
         }
     ],
@@ -1790,7 +1790,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-03-29T11:53:59Z",
@@ -1799,7 +1799,7 @@
     "lastNotified": "2021-03-29T11:54:05Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6061be33758bda0381ba1c0c",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6061be33758bda0381ba1c0c",
             "rel": "self"
         }
     ],
@@ -1812,7 +1812,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI_1",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-03-29T11:54:59Z",
@@ -1821,7 +1821,7 @@
     "lastNotified": "2021-03-29T11:55:05Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6061be33758bda0381ba1c0e",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6061be33758bda0381ba1c0e",
             "rel": "self"
         }
     ],
@@ -1834,7 +1834,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-04-06T09:01:20Z",
@@ -1843,7 +1843,7 @@
     "lastNotified": "2021-04-06T09:01:29Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/606c223421ec9b391fd4c36f",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/606c223421ec9b391fd4c36f",
             "rel": "self"
         }
     ],
@@ -1854,7 +1854,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "606c223421ec9b391fd4c36f",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "acknowledgingUsername": "opsmgr@example.com",
@@ -1867,7 +1867,7 @@
     "lastNotified": "2021-04-08T03:09:06Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/606dcb0ba53da832202b4cf4",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/606dcb0ba53da832202b4cf4",
             "rel": "self"
         }
     ],
@@ -1881,7 +1881,7 @@
     "status": "CLOSED",
     "resolved": "2021-04-08T03:09:01Z",
     "replicaSetName": "rsMO5",
-    "groupId": "5f7c5cc1e306913dd6fed87f",
+    "groupId": "4f7c8cf1e3012913dfed97g",
     "metricName": "OPLOG_MASTER_TIME"
 },
 {
@@ -1891,7 +1891,7 @@
     "lastNotified": "2021-04-12T08:21:51Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/607401ad2e8e1b36dd0d1547",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/607401ad2e8e1b36dd0d1547",
             "rel": "self"
         }
     ],
@@ -1902,7 +1902,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "607401ad2e8e1b36dd0d1547",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-04-27T08:30:52Z",
@@ -1910,7 +1910,7 @@
     "updated": "2021-04-27T08:30:52Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6087bf8e5d46643003cbc408",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6087bf8e5d46643003cbc408",
             "rel": "self"
         }
     ],
@@ -1918,7 +1918,7 @@
     "eventTypeName": "MONITORING_AGENT_DOWN",
     "alertConfigId": "5f7c5cc1e306913dd6fed880",
     "lastNotified": "2021-04-27T08:30:52Z",
-    "groupId": "5f7c5cc1e306913dd6fed87f",
+    "groupId": "4f7c8cf1e3012913dfed97g",
     "typeName": "AGENT",
     "id": "6087bf8e5d46643003cbc408"
 },
@@ -1929,7 +1929,7 @@
     "lastNotified": "2021-04-27T08:41:59Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6087cbf85d46643003cbfc12",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6087cbf85d46643003cbfc12",
             "rel": "self"
         }
     ],
@@ -1940,7 +1940,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "6087cbf85d46643003cbfc12",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-05-05T12:47:10Z",
@@ -1948,7 +1948,7 @@
     "updated": "2021-05-05T12:47:10Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6092935631a2466fa3ab332f",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6092935631a2466fa3ab332f",
             "rel": "self"
         }
     ],
@@ -1956,7 +1956,7 @@
     "eventTypeName": "MONITORING_AGENT_DOWN",
     "alertConfigId": "5f7c5cc1e306913dd6fed880",
     "lastNotified": "2021-05-05T12:47:10Z",
-    "groupId": "5f7c5cc1e306913dd6fed87f",
+    "groupId": "4f7c8cf1e3012913dfed97g",
     "typeName": "AGENT",
     "id": "6092935631a2466fa3ab332f"
 },
@@ -1967,7 +1967,7 @@
     "lastNotified": "2021-05-17T08:12:40Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/60a22480282e4e725fa39691",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/60a22480282e4e725fa39691",
             "rel": "self"
         }
     ],
@@ -1978,7 +1978,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "60a22480282e4e725fa39691",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-05-25T08:26:05Z",
@@ -1987,7 +1987,7 @@
     "lastNotified": "2021-05-25T08:26:12Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/60aca923f3f0ac3a7d519a95",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/60aca923f3f0ac3a7d519a95",
             "rel": "self"
         }
     ],
@@ -1998,7 +1998,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "60aca923f3f0ac3a7d519a95",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-06-02T12:08:05Z",
@@ -2007,7 +2007,7 @@
     "lastNotified": "2021-06-02T12:08:13Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/60b77379bb57733d021eea42",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/60b77379bb57733d021eea42",
             "rel": "self"
         }
     ],
@@ -2018,7 +2018,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "60b77379bb57733d021eea42",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-06-07T09:36:26Z",
@@ -2027,7 +2027,7 @@
     "lastNotified": "2021-06-07T09:36:33Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/60bde76d0cd7742569cc53a0",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/60bde76d0cd7742569cc53a0",
             "rel": "self"
         }
     ],
@@ -2038,7 +2038,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "60bde76d0cd7742569cc53a0",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-06-21T09:31:05Z",
@@ -2047,7 +2047,7 @@
     "lastNotified": "2021-06-21T09:31:13Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/60cc5d0cd4d9320999d725c0",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/60cc5d0cd4d9320999d725c0",
             "rel": "self"
         }
     ],
@@ -2058,7 +2058,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "60cc5d0cd4d9320999d725c0",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-06-23T07:59:51Z",
@@ -2067,7 +2067,7 @@
     "lastNotified": "2021-06-23T08:00:00Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/60d2e907e0cf517ee463705f",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/60d2e907e0cf517ee463705f",
             "rel": "self"
         }
     ],
@@ -2078,7 +2078,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "60d2e907e0cf517ee463705f",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-06-25T07:39:32Z",
@@ -2087,7 +2087,7 @@
     "lastNotified": "2021-06-25T07:39:41Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/60d5870824c1c35c6160f794",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/60d5870824c1c35c6160f794",
             "rel": "self"
         }
     ],
@@ -2098,7 +2098,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "60d5870824c1c35c6160f794",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-06-29T09:30:26Z",
@@ -2107,7 +2107,7 @@
     "lastNotified": "2021-06-29T09:30:35Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/60dae7067da121779b445a92",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/60dae7067da121779b445a92",
             "rel": "self"
         }
     ],
@@ -2118,7 +2118,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "60dae7067da121779b445a92",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-07-07T15:03:04Z",
@@ -2127,7 +2127,7 @@
     "lastNotified": "2021-07-07T15:03:13Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/60e5c13718ddfb34fc0dedb7",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/60e5c13718ddfb34fc0dedb7",
             "rel": "self"
         }
     ],
@@ -2138,7 +2138,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "60e5c13718ddfb34fc0dedb7",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-10-19T08:03:15Z",
@@ -2147,7 +2147,7 @@
     "lastNotified": "2020-10-19T08:03:22Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5f8d3d42bf1c7648f72dafd9",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5f8d3d42bf1c7648f72dafd9",
             "rel": "self"
         }
     ],
@@ -2160,7 +2160,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-10-19T08:03:15Z",
@@ -2169,7 +2169,7 @@
     "lastNotified": "2020-10-19T08:03:22Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5f8d3d42bf1c7648f72dafdb",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5f8d3d42bf1c7648f72dafdb",
             "rel": "self"
         }
     ],
@@ -2182,7 +2182,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-10-19T07:57:15Z",
@@ -2191,7 +2191,7 @@
     "lastNotified": "2020-10-19T07:57:22Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5f8d3d42bf1c7648f72dafdd",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5f8d3d42bf1c7648f72dafdd",
             "rel": "self"
         }
     ],
@@ -2202,7 +2202,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "5f8d3d42bf1c7648f72dafdd",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-10-19T08:14:15Z",
@@ -2210,7 +2210,7 @@
     "updated": "2020-10-19T08:14:15Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5f8d4a9bbf1c7648f72e66fa",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5f8d4a9bbf1c7648f72e66fa",
             "rel": "self"
         }
     ],
@@ -2218,7 +2218,7 @@
     "eventTypeName": "BACKUP_AGENT_DOWN",
     "alertConfigId": "5f86b2041a779c06a3174d19",
     "lastNotified": "2020-10-19T08:14:23Z",
-    "groupId": "5f7c5cc1e306913dd6fed87f",
+    "groupId": "4f7c8cf1e3012913dfed97g",
     "typeName": "AGENT",
     "id": "5f8d4a9bbf1c7648f72e66fa"
 },
@@ -2229,7 +2229,7 @@
     "lastNotified": "2020-10-26T14:03:21Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5f96d35fc306a97f82bbdf3b",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5f96d35fc306a97f82bbdf3b",
             "rel": "self"
         }
     ],
@@ -2242,7 +2242,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-10-26T14:03:12Z",
@@ -2251,7 +2251,7 @@
     "lastNotified": "2020-10-26T14:03:21Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5f96d35fc306a97f82bbdf3d",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5f96d35fc306a97f82bbdf3d",
             "rel": "self"
         }
     ],
@@ -2264,7 +2264,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-10-26T13:58:12Z",
@@ -2273,7 +2273,7 @@
     "lastNotified": "2020-10-26T13:58:21Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5f96d35fc306a97f82bbdf3f",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5f96d35fc306a97f82bbdf3f",
             "rel": "self"
         }
     ],
@@ -2284,7 +2284,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "5f96d35fc306a97f82bbdf3f",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "acknowledgingUsername": "opsmgr@example.com",
@@ -2293,7 +2293,7 @@
     "lastNotified": "2020-11-02T08:44:21Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5f9fc13b35759f36d23a2b52",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5f9fc13b35759f36d23a2b52",
             "rel": "self"
         }
     ],
@@ -2308,7 +2308,7 @@
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
     "typeName": "BACKUP",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "acknowledgingUsername": "opsmgr@example.com",
@@ -2317,7 +2317,7 @@
     "lastNotified": "2020-11-02T08:44:21Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5f9fc13b35759f36d23a2b54",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5f9fc13b35759f36d23a2b54",
             "rel": "self"
         }
     ],
@@ -2332,7 +2332,7 @@
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
     "typeName": "BACKUP",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-11-02T08:37:12Z",
@@ -2341,7 +2341,7 @@
     "lastNotified": "2020-11-02T08:37:21Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5f9fc13b35759f36d23a2b56",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5f9fc13b35759f36d23a2b56",
             "rel": "self"
         }
     ],
@@ -2352,7 +2352,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "5f9fc13b35759f36d23a2b56",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-11-06T08:44:12Z",
@@ -2361,7 +2361,7 @@
     "lastNotified": "2020-11-06T08:44:17Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fa42b2835759f36d2581113",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fa42b2835759f36d2581113",
             "rel": "self"
         }
     ],
@@ -2374,7 +2374,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-11-06T08:43:12Z",
@@ -2383,7 +2383,7 @@
     "lastNotified": "2020-11-06T08:43:17Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fa42b6435759f36d25812e3",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fa42b6435759f36d25812e3",
             "rel": "self"
         }
     ],
@@ -2396,7 +2396,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-11-06T08:29:12Z",
@@ -2404,7 +2404,7 @@
     "updated": "2020-11-06T08:29:12Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fa508a435759f36d25e829d",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fa508a435759f36d25e829d",
             "rel": "self"
         }
     ],
@@ -2412,7 +2412,7 @@
     "eventTypeName": "MONITORING_AGENT_DOWN",
     "alertConfigId": "5f7c5cc1e306913dd6fed880",
     "lastNotified": "2020-11-06T08:29:12Z",
-    "groupId": "5f7c5cc1e306913dd6fed87f",
+    "groupId": "4f7c8cf1e3012913dfed97g",
     "typeName": "AGENT",
     "id": "5fa508a435759f36d25e829d"
 },
@@ -2422,7 +2422,7 @@
     "updated": "2020-11-06T08:40:12Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fa50b7435759f36d25e9195",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fa50b7435759f36d25e9195",
             "rel": "self"
         }
     ],
@@ -2430,7 +2430,7 @@
     "eventTypeName": "BACKUP_AGENT_DOWN",
     "alertConfigId": "5f86b2041a779c06a3174d19",
     "lastNotified": "2020-11-06T08:40:17Z",
-    "groupId": "5f7c5cc1e306913dd6fed87f",
+    "groupId": "4f7c8cf1e3012913dfed97g",
     "typeName": "AGENT",
     "id": "5fa50b7435759f36d25e9195"
 },
@@ -2441,7 +2441,7 @@
     "lastNotified": "2020-11-06T08:43:17Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fa50c2835759f36d25e9638",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fa50c2835759f36d25e9638",
             "rel": "self"
         }
     ],
@@ -2452,7 +2452,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "5fa50c2835759f36d25e9638",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-11-12T09:14:23Z",
@@ -2461,7 +2461,7 @@
     "lastNotified": "2020-11-12T09:14:32Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5facf83e336705035680b2c4",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5facf83e336705035680b2c4",
             "rel": "self"
         }
     ],
@@ -2474,7 +2474,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-11-12T09:05:23Z",
@@ -2483,7 +2483,7 @@
     "lastNotified": "2020-11-12T09:05:32Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5facf83e336705035680b2c6",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5facf83e336705035680b2c6",
             "rel": "self"
         }
     ],
@@ -2496,7 +2496,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-11-12T09:00:22Z",
@@ -2505,7 +2505,7 @@
     "lastNotified": "2020-11-12T09:00:32Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5facf83e336705035680b2c8",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5facf83e336705035680b2c8",
             "rel": "self"
         }
     ],
@@ -2516,7 +2516,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "5facf83e336705035680b2c8",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-11-12T17:05:56Z",
@@ -2525,7 +2525,7 @@
     "lastNotified": "2020-11-12T17:06:06Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fad53535a2cfc5e4e114e7a",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fad53535a2cfc5e4e114e7a",
             "rel": "self"
         }
     ],
@@ -2538,7 +2538,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-11-12T17:04:56Z",
@@ -2547,7 +2547,7 @@
     "lastNotified": "2020-11-12T17:05:06Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fad53535a2cfc5e4e114e7c",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fad53535a2cfc5e4e114e7c",
             "rel": "self"
         }
     ],
@@ -2560,7 +2560,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-11-12T17:04:56Z",
@@ -2569,7 +2569,7 @@
     "lastNotified": "2020-11-12T17:05:06Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fad6afc5a2cfc5e4e11fdef",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fad6afc5a2cfc5e4e11fdef",
             "rel": "self"
         }
     ],
@@ -2580,7 +2580,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "5fad6afc5a2cfc5e4e11fdef",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-11-17T12:56:50Z",
@@ -2589,7 +2589,7 @@
     "lastNotified": "2020-11-17T12:56:58Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fb3bd1986667272c3196344",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fb3bd1986667272c3196344",
             "rel": "self"
         }
     ],
@@ -2602,7 +2602,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-11-17T12:56:50Z",
@@ -2611,7 +2611,7 @@
     "lastNotified": "2020-11-17T12:56:58Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fb3bd1986667272c3196346",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fb3bd1986667272c3196346",
             "rel": "self"
         }
     ],
@@ -2624,7 +2624,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-11-17T12:51:50Z",
@@ -2633,7 +2633,7 @@
     "lastNotified": "2020-11-17T12:51:58Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fb3bd1986667272c3196348",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fb3bd1986667272c3196348",
             "rel": "self"
         }
     ],
@@ -2644,7 +2644,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "5fb3bd1986667272c3196348",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-11-23T08:31:43Z",
@@ -2653,7 +2653,7 @@
     "lastNotified": "2020-11-23T08:31:52Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fbb709e190cb631ae308a86",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fbb709e190cb631ae308a86",
             "rel": "self"
         }
     ],
@@ -2666,7 +2666,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-11-23T08:31:43Z",
@@ -2675,7 +2675,7 @@
     "lastNotified": "2020-11-23T08:31:52Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fbb709e190cb631ae308a88",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fbb709e190cb631ae308a88",
             "rel": "self"
         }
     ],
@@ -2688,7 +2688,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-11-23T08:24:43Z",
@@ -2697,7 +2697,7 @@
     "lastNotified": "2020-11-23T08:24:52Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fbb709e190cb631ae308a8a",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fbb709e190cb631ae308a8a",
             "rel": "self"
         }
     ],
@@ -2708,7 +2708,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "5fbb709e190cb631ae308a8a",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "acknowledgingUsername": "opsmgr@example.com",
@@ -2717,7 +2717,7 @@
     "lastNotified": "2020-12-01T09:03:41Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fc5f860cc7b0a0265bf1e53",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fc5f860cc7b0a0265bf1e53",
             "rel": "self"
         }
     ],
@@ -2732,7 +2732,7 @@
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
     "typeName": "BACKUP",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "acknowledgingUsername": "opsmgr@example.com",
@@ -2741,7 +2741,7 @@
     "lastNotified": "2020-12-01T09:03:41Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fc5f860cc7b0a0265bf1e55",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fc5f860cc7b0a0265bf1e55",
             "rel": "self"
         }
     ],
@@ -2756,7 +2756,7 @@
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
     "typeName": "BACKUP",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "acknowledgingUsername": "opsmgr@example.com",
@@ -2765,7 +2765,7 @@
     "lastNotified": "2020-12-01T08:57:41Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fc5f860cc7b0a0265bf1e57",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fc5f860cc7b0a0265bf1e57",
             "rel": "self"
         }
     ],
@@ -2778,7 +2778,7 @@
     "status": "CLOSED",
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-12-07T11:00:29Z",
@@ -2787,7 +2787,7 @@
     "lastNotified": "2020-12-07T11:00:38Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fcdeb305907fa4a11ec2d36",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fcdeb305907fa4a11ec2d36",
             "rel": "self"
         }
     ],
@@ -2800,7 +2800,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-12-07T10:59:29Z",
@@ -2809,7 +2809,7 @@
     "lastNotified": "2020-12-07T10:59:38Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fcdeb305907fa4a11ec2d38",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fcdeb305907fa4a11ec2d38",
             "rel": "self"
         }
     ],
@@ -2822,7 +2822,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-12-07T10:53:29Z",
@@ -2831,7 +2831,7 @@
     "lastNotified": "2020-12-07T10:53:38Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fcdeb305907fa4a11ec2d3a",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fcdeb305907fa4a11ec2d3a",
             "rel": "self"
         }
     ],
@@ -2842,7 +2842,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "5fcdeb305907fa4a11ec2d3a",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "acknowledgingUsername": "opsmgr@example.com",
@@ -2855,7 +2855,7 @@
     "lastNotified": "2020-12-08T23:40:33Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fcf66695907fa4a11f8c019",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fcf66695907fa4a11f8c019",
             "rel": "self"
         }
     ],
@@ -2869,7 +2869,7 @@
     "status": "CLOSED",
     "resolved": "2020-12-08T23:40:25Z",
     "replicaSetName": "rsGPI_1",
-    "groupId": "5f7c5cc1e306913dd6fed87f",
+    "groupId": "4f7c8cf1e3012913dfed97g",
     "metricName": "OPLOG_MASTER_TIME"
 },
 {
@@ -2879,7 +2879,7 @@
     "lastNotified": "2020-12-14T08:59:39Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fd72756c9cc08268b64c842",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fd72756c9cc08268b64c842",
             "rel": "self"
         }
     ],
@@ -2892,7 +2892,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-12-14T08:59:31Z",
@@ -2901,7 +2901,7 @@
     "lastNotified": "2020-12-14T08:59:39Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fd72756c9cc08268b64c844",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fd72756c9cc08268b64c844",
             "rel": "self"
         }
     ],
@@ -2914,7 +2914,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI_1",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-12-14T08:57:31Z",
@@ -2923,7 +2923,7 @@
     "lastNotified": "2020-12-14T08:57:39Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fd72756c9cc08268b64c846",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fd72756c9cc08268b64c846",
             "rel": "self"
         }
     ],
@@ -2936,7 +2936,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2020-12-14T08:52:30Z",
@@ -2945,7 +2945,7 @@
     "lastNotified": "2020-12-14T08:52:39Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fd72756c9cc08268b64c848",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fd72756c9cc08268b64c848",
             "rel": "self"
         }
     ],
@@ -2956,7 +2956,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "5fd72756c9cc08268b64c848",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-01-05T08:38:54Z",
@@ -2965,7 +2965,7 @@
     "lastNotified": "2021-01-05T08:39:03Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fdc7c9ba4fa0d753bc3068e",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fdc7c9ba4fa0d753bc3068e",
             "rel": "self"
         }
     ],
@@ -2978,7 +2978,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-01-05T08:38:54Z",
@@ -2987,7 +2987,7 @@
     "lastNotified": "2021-01-05T08:39:03Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fdc7c9ba4fa0d753bc30690",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fdc7c9ba4fa0d753bc30690",
             "rel": "self"
         }
     ],
@@ -3000,7 +3000,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI_1",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-01-05T08:39:54Z",
@@ -3009,7 +3009,7 @@
     "lastNotified": "2021-01-05T08:40:03Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fdc7c9ba4fa0d753bc30692",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fdc7c9ba4fa0d753bc30692",
             "rel": "self"
         }
     ],
@@ -3022,7 +3022,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-01-05T08:33:53Z",
@@ -3031,7 +3031,7 @@
     "lastNotified": "2021-01-05T08:34:03Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5fdc7c9ba4fa0d753bc30694",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5fdc7c9ba4fa0d753bc30694",
             "rel": "self"
         }
     ],
@@ -3042,7 +3042,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "5fdc7c9ba4fa0d753bc30694",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-01-13T09:23:27Z",
@@ -3051,7 +3051,7 @@
     "lastNotified": "2021-01-13T09:23:36Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5ffeb902560b884c3885ff7e",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5ffeb902560b884c3885ff7e",
             "rel": "self"
         }
     ],
@@ -3064,7 +3064,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-01-13T09:23:27Z",
@@ -3073,7 +3073,7 @@
     "lastNotified": "2021-01-13T09:23:36Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5ffeb902560b884c3885ff80",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5ffeb902560b884c3885ff80",
             "rel": "self"
         }
     ],
@@ -3086,7 +3086,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI_1",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-01-13T09:21:27Z",
@@ -3095,7 +3095,7 @@
     "lastNotified": "2021-01-13T09:21:36Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5ffeb902560b884c3885ff82",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5ffeb902560b884c3885ff82",
             "rel": "self"
         }
     ],
@@ -3108,7 +3108,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-01-13T09:15:27Z",
@@ -3117,7 +3117,7 @@
     "lastNotified": "2021-01-13T09:15:36Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/5ffeb902560b884c3885ff84",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/5ffeb902560b884c3885ff84",
             "rel": "self"
         }
     ],
@@ -3128,7 +3128,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "5ffeb902560b884c3885ff84",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-01-26T10:33:40Z",
@@ -3137,7 +3137,7 @@
     "lastNotified": "2021-01-26T10:33:47Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/600fe2e1aa1382082e410c53",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/600fe2e1aa1382082e410c53",
             "rel": "self"
         }
     ],
@@ -3150,7 +3150,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-01-26T10:33:40Z",
@@ -3159,7 +3159,7 @@
     "lastNotified": "2021-01-26T10:33:47Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/600fe2e1aa1382082e410c55",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/600fe2e1aa1382082e410c55",
             "rel": "self"
         }
     ],
@@ -3172,7 +3172,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI_1",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-01-26T10:33:40Z",
@@ -3181,7 +3181,7 @@
     "lastNotified": "2021-01-26T10:33:47Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/600fe2e1aa1382082e410c57",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/600fe2e1aa1382082e410c57",
             "rel": "self"
         }
     ],
@@ -3194,7 +3194,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-01-26T10:27:40Z",
@@ -3203,7 +3203,7 @@
     "lastNotified": "2021-01-26T10:27:47Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/600fe2e1aa1382082e410c59",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/600fe2e1aa1382082e410c59",
             "rel": "self"
         }
     ],
@@ -3214,7 +3214,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "600fe2e1aa1382082e410c59",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-02-01T09:37:14Z",
@@ -3223,7 +3223,7 @@
     "lastNotified": "2021-02-01T09:37:22Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6017c44ef9a83d40d5f50011",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6017c44ef9a83d40d5f50011",
             "rel": "self"
         }
     ],
@@ -3236,7 +3236,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-02-01T09:37:14Z",
@@ -3245,7 +3245,7 @@
     "lastNotified": "2021-02-01T09:37:22Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6017c44ef9a83d40d5f50013",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6017c44ef9a83d40d5f50013",
             "rel": "self"
         }
     ],
@@ -3258,7 +3258,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI_1",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-02-01T09:36:14Z",
@@ -3267,7 +3267,7 @@
     "lastNotified": "2021-02-01T09:36:22Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6017c44ef9a83d40d5f50015",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6017c44ef9a83d40d5f50015",
             "rel": "self"
         }
     ],
@@ -3280,7 +3280,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-02-01T09:30:14Z",
@@ -3289,7 +3289,7 @@
     "lastNotified": "2021-02-01T09:30:22Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6017c44ef9a83d40d5f50017",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6017c44ef9a83d40d5f50017",
             "rel": "self"
         }
     ],
@@ -3300,7 +3300,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "6017c44ef9a83d40d5f50017",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-02-09T08:47:53Z",
@@ -3309,7 +3309,7 @@
     "lastNotified": "2021-02-09T08:48:01Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/602244b7a0c0a4055071fbfd",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/602244b7a0c0a4055071fbfd",
             "rel": "self"
         }
     ],
@@ -3322,7 +3322,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-02-09T08:47:53Z",
@@ -3331,7 +3331,7 @@
     "lastNotified": "2021-02-09T08:48:01Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/602244b7a0c0a4055071fc00",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/602244b7a0c0a4055071fc00",
             "rel": "self"
         }
     ],
@@ -3344,7 +3344,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI_1",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-02-09T08:48:53Z",
@@ -3353,7 +3353,7 @@
     "lastNotified": "2021-02-09T08:49:01Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/602244b7a0c0a4055071fc02",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/602244b7a0c0a4055071fc02",
             "rel": "self"
         }
     ],
@@ -3366,7 +3366,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-02-09T08:41:53Z",
@@ -3375,7 +3375,7 @@
     "lastNotified": "2021-02-09T08:42:01Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/602244b7a0c0a4055071fc06",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/602244b7a0c0a4055071fc06",
             "rel": "self"
         }
     ],
@@ -3386,7 +3386,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "602244b7a0c0a4055071fc06",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-02-15T10:51:05Z",
@@ -3395,7 +3395,7 @@
     "lastNotified": "2021-02-15T10:51:14Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/602a4f843645536f99984c66",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/602a4f843645536f99984c66",
             "rel": "self"
         }
     ],
@@ -3408,7 +3408,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-02-15T10:50:05Z",
@@ -3417,7 +3417,7 @@
     "lastNotified": "2021-02-15T10:50:14Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/602a4f843645536f99984c68",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/602a4f843645536f99984c68",
             "rel": "self"
         }
     ],
@@ -3430,7 +3430,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI_1",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-02-15T10:50:05Z",
@@ -3439,7 +3439,7 @@
     "lastNotified": "2021-02-15T10:50:14Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/602a4f843645536f99984c6a",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/602a4f843645536f99984c6a",
             "rel": "self"
         }
     ],
@@ -3452,7 +3452,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-02-15T10:44:04Z",
@@ -3461,7 +3461,7 @@
     "lastNotified": "2021-02-15T10:44:13Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/602a4f843645536f99984c6c",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/602a4f843645536f99984c6c",
             "rel": "self"
         }
     ],
@@ -3472,7 +3472,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "602a4f843645536f99984c6c",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-02-23T09:44:51Z",
@@ -3481,7 +3481,7 @@
     "lastNotified": "2021-02-23T09:44:58Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6034bfd19f942f2ffe15a79e",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6034bfd19f942f2ffe15a79e",
             "rel": "self"
         }
     ],
@@ -3494,7 +3494,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-02-23T09:43:51Z",
@@ -3503,7 +3503,7 @@
     "lastNotified": "2021-02-23T09:43:58Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6034bfd19f942f2ffe15a7a0",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6034bfd19f942f2ffe15a7a0",
             "rel": "self"
         }
     ],
@@ -3516,7 +3516,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI_1",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-02-23T09:42:51Z",
@@ -3525,7 +3525,7 @@
     "lastNotified": "2021-02-23T09:42:58Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6034bfd19f942f2ffe15a7a2",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6034bfd19f942f2ffe15a7a2",
             "rel": "self"
         }
     ],
@@ -3538,7 +3538,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-02-23T09:37:51Z",
@@ -3547,7 +3547,7 @@
     "lastNotified": "2021-02-23T09:37:58Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6034bfd19f942f2ffe15a7a4",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6034bfd19f942f2ffe15a7a4",
             "rel": "self"
         }
     ],
@@ -3558,7 +3558,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "6034bfd19f942f2ffe15a7a4",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "acknowledgingUsername": "opsmgr@example.com",
@@ -3567,7 +3567,7 @@
     "lastNotified": "2021-03-01T08:50:52Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/603ca5f78d0e2b41ecc77d2b",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/603ca5f78d0e2b41ecc77d2b",
             "rel": "self"
         }
     ],
@@ -3582,7 +3582,7 @@
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
     "typeName": "BACKUP",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "acknowledgingUsername": "opsmgr@example.com",
@@ -3591,7 +3591,7 @@
     "lastNotified": "2021-03-01T08:49:52Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/603ca5f78d0e2b41ecc77d2d",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/603ca5f78d0e2b41ecc77d2d",
             "rel": "self"
         }
     ],
@@ -3606,7 +3606,7 @@
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI_1",
     "typeName": "BACKUP",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "acknowledgingUsername": "opsmgr@example.com",
@@ -3615,7 +3615,7 @@
     "lastNotified": "2021-03-01T08:49:52Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/603ca5f78d0e2b41ecc77d2f",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/603ca5f78d0e2b41ecc77d2f",
             "rel": "self"
         }
     ],
@@ -3630,7 +3630,7 @@
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
     "typeName": "BACKUP",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-03-01T08:43:43Z",
@@ -3639,7 +3639,7 @@
     "lastNotified": "2021-03-01T08:43:52Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/603ca5f78d0e2b41ecc77d31",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/603ca5f78d0e2b41ecc77d31",
             "rel": "self"
         }
     ],
@@ -3650,7 +3650,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "603ca5f78d0e2b41ecc77d31",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-03-08T08:44:43Z",
@@ -3659,7 +3659,7 @@
     "lastNotified": "2021-03-08T08:44:52Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6045e0b2c5066268f67c0fb5",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6045e0b2c5066268f67c0fb5",
             "rel": "self"
         }
     ],
@@ -3672,7 +3672,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-03-08T08:43:43Z",
@@ -3681,7 +3681,7 @@
     "lastNotified": "2021-03-08T08:43:52Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6045e0b2c5066268f67c0fb7",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6045e0b2c5066268f67c0fb7",
             "rel": "self"
         }
     ],
@@ -3694,7 +3694,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI_1",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-03-08T08:44:43Z",
@@ -3703,7 +3703,7 @@
     "lastNotified": "2021-03-08T08:44:52Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6045e0b2c5066268f67c0fb9",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6045e0b2c5066268f67c0fb9",
             "rel": "self"
         }
     ],
@@ -3716,7 +3716,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-03-08T08:37:43Z",
@@ -3725,7 +3725,7 @@
     "lastNotified": "2021-03-08T08:37:51Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6045e0b2c5066268f67c0fbb",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6045e0b2c5066268f67c0fbb",
             "rel": "self"
         }
     ],
@@ -3736,7 +3736,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "6045e0b2c5066268f67c0fbb",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-03-16T08:19:34Z",
@@ -3745,7 +3745,7 @@
     "lastNotified": "2021-03-16T08:19:43Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/605065a1d99c976b72516ae5",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/605065a1d99c976b72516ae5",
             "rel": "self"
         }
     ],
@@ -3758,7 +3758,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-03-16T08:20:34Z",
@@ -3767,7 +3767,7 @@
     "lastNotified": "2021-03-16T08:20:43Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/605065a1d99c976b72516ae7",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/605065a1d99c976b72516ae7",
             "rel": "self"
         }
     ],
@@ -3780,7 +3780,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI_1",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-03-16T08:19:34Z",
@@ -3789,7 +3789,7 @@
     "lastNotified": "2021-03-16T08:19:43Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/605065a1d99c976b72516ae9",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/605065a1d99c976b72516ae9",
             "rel": "self"
         }
     ],
@@ -3802,7 +3802,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-03-16T08:13:34Z",
@@ -3811,7 +3811,7 @@
     "lastNotified": "2021-03-16T08:13:43Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/605065a1d99c976b72516aeb",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/605065a1d99c976b72516aeb",
             "rel": "self"
         }
     ],
@@ -3822,7 +3822,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "605065a1d99c976b72516aeb",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-03-17T10:08:47Z",
@@ -3831,7 +3831,7 @@
     "lastNotified": "2021-03-17T10:08:53Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6051c0cdd5c3893c5a917c02",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6051c0cdd5c3893c5a917c02",
             "rel": "self"
         }
     ],
@@ -3842,7 +3842,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "6051c0cdd5c3893c5a917c02",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-03-23T10:16:57Z",
@@ -3851,7 +3851,7 @@
     "lastNotified": "2021-03-23T10:17:06Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6059bf289c0197483f3fade4",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6059bf289c0197483f3fade4",
             "rel": "self"
         }
     ],
@@ -3862,7 +3862,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "6059bf289c0197483f3fade4",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-03-29T07:28:01Z",
@@ -3871,7 +3871,7 @@
     "lastNotified": "2021-03-29T07:28:10Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/60617e74758bda0381b81e8b",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/60617e74758bda0381b81e8b",
             "rel": "self"
         }
     ],
@@ -3882,7 +3882,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "60617e74758bda0381b81e8b",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "hostnameAndPort": "ip-172-31-5-118.eu-west-2.compute.internal:27019",
@@ -3894,7 +3894,7 @@
     "hostId": "852df2f20d5ba69c329b4336871b8fe3",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/60618109758bda0381b85039",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/60618109758bda0381b85039",
             "rel": "self"
         }
     ],
@@ -3907,7 +3907,7 @@
     "typeName": "HOST_METRIC",
     "status": "CLOSED",
     "replicaSetName": "cfgGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f",
+    "groupId": "4f7c8cf1e3012913dfed97g",
     "metricName": "OPLOG_MASTER_TIME"
 },
 {
@@ -3917,7 +3917,7 @@
     "lastNotified": "2021-03-29T11:55:05Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6061be33758bda0381ba1c0a",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6061be33758bda0381ba1c0a",
             "rel": "self"
         }
     ],
@@ -3930,7 +3930,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-03-29T11:53:59Z",
@@ -3939,7 +3939,7 @@
     "lastNotified": "2021-03-29T11:54:05Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6061be33758bda0381ba1c0c",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6061be33758bda0381ba1c0c",
             "rel": "self"
         }
     ],
@@ -3952,7 +3952,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "REPLICA_SET",
     "replicaSetName": "rsGPI_1",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-03-29T11:54:59Z",
@@ -3961,7 +3961,7 @@
     "lastNotified": "2021-03-29T11:55:05Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6061be33758bda0381ba1c0e",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6061be33758bda0381ba1c0e",
             "rel": "self"
         }
     ],
@@ -3974,7 +3974,7 @@
     "typeName": "BACKUP",
     "sourceTypeName": "CONFIG_SERVER",
     "replicaSetName": "config-cfgGPI-5f7ec77249d380630d490405",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-04-06T09:01:20Z",
@@ -3983,7 +3983,7 @@
     "lastNotified": "2021-04-06T09:01:29Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/606c223421ec9b391fd4c36f",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/606c223421ec9b391fd4c36f",
             "rel": "self"
         }
     ],
@@ -3994,7 +3994,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "606c223421ec9b391fd4c36f",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "acknowledgingUsername": "opsmgr@example.com",
@@ -4007,7 +4007,7 @@
     "lastNotified": "2021-04-08T03:09:06Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/606dcb0ba53da832202b4cf4",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/606dcb0ba53da832202b4cf4",
             "rel": "self"
         }
     ],
@@ -4021,7 +4021,7 @@
     "status": "CLOSED",
     "resolved": "2021-04-08T03:09:01Z",
     "replicaSetName": "rsMO5",
-    "groupId": "5f7c5cc1e306913dd6fed87f",
+    "groupId": "4f7c8cf1e3012913dfed97g",
     "metricName": "OPLOG_MASTER_TIME"
 },
 {
@@ -4031,7 +4031,7 @@
     "lastNotified": "2021-04-12T08:21:51Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/607401ad2e8e1b36dd0d1547",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/607401ad2e8e1b36dd0d1547",
             "rel": "self"
         }
     ],
@@ -4042,7 +4042,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "607401ad2e8e1b36dd0d1547",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-04-27T08:30:52Z",
@@ -4050,7 +4050,7 @@
     "updated": "2021-04-27T08:30:52Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6087bf8e5d46643003cbc408",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6087bf8e5d46643003cbc408",
             "rel": "self"
         }
     ],
@@ -4058,7 +4058,7 @@
     "eventTypeName": "MONITORING_AGENT_DOWN",
     "alertConfigId": "5f7c5cc1e306913dd6fed880",
     "lastNotified": "2021-04-27T08:30:52Z",
-    "groupId": "5f7c5cc1e306913dd6fed87f",
+    "groupId": "4f7c8cf1e3012913dfed97g",
     "typeName": "AGENT",
     "id": "6087bf8e5d46643003cbc408"
 },
@@ -4069,7 +4069,7 @@
     "lastNotified": "2021-04-27T08:41:59Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6087cbf85d46643003cbfc12",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6087cbf85d46643003cbfc12",
             "rel": "self"
         }
     ],
@@ -4080,7 +4080,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "6087cbf85d46643003cbfc12",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-05-05T12:47:10Z",
@@ -4088,7 +4088,7 @@
     "updated": "2021-05-05T12:47:10Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6092935631a2466fa3ab332f",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6092935631a2466fa3ab332f",
             "rel": "self"
         }
     ],
@@ -4096,7 +4096,7 @@
     "eventTypeName": "MONITORING_AGENT_DOWN",
     "alertConfigId": "5f7c5cc1e306913dd6fed880",
     "lastNotified": "2021-05-05T12:47:10Z",
-    "groupId": "5f7c5cc1e306913dd6fed87f",
+    "groupId": "4f7c8cf1e3012913dfed97g",
     "typeName": "AGENT",
     "id": "6092935631a2466fa3ab332f"
 },
@@ -4107,7 +4107,7 @@
     "lastNotified": "2021-05-17T08:12:40Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/60a22480282e4e725fa39691",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/60a22480282e4e725fa39691",
             "rel": "self"
         }
     ],
@@ -4118,7 +4118,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "60a22480282e4e725fa39691",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-05-25T08:26:05Z",
@@ -4127,7 +4127,7 @@
     "lastNotified": "2021-05-25T08:26:12Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/60aca923f3f0ac3a7d519a95",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/60aca923f3f0ac3a7d519a95",
             "rel": "self"
         }
     ],
@@ -4138,7 +4138,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "60aca923f3f0ac3a7d519a95",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-06-02T12:08:05Z",
@@ -4147,7 +4147,7 @@
     "lastNotified": "2021-06-02T12:08:13Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/60b77379bb57733d021eea42",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/60b77379bb57733d021eea42",
             "rel": "self"
         }
     ],
@@ -4158,7 +4158,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "60b77379bb57733d021eea42",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-06-07T09:36:26Z",
@@ -4167,7 +4167,7 @@
     "lastNotified": "2021-06-07T09:36:33Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/60bde76d0cd7742569cc53a0",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/60bde76d0cd7742569cc53a0",
             "rel": "self"
         }
     ],
@@ -4178,7 +4178,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "60bde76d0cd7742569cc53a0",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-06-21T09:31:05Z",
@@ -4187,7 +4187,7 @@
     "lastNotified": "2021-06-21T09:31:13Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/60cc5d0cd4d9320999d725c0",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/60cc5d0cd4d9320999d725c0",
             "rel": "self"
         }
     ],
@@ -4198,7 +4198,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "60cc5d0cd4d9320999d725c0",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-06-23T07:59:51Z",
@@ -4207,7 +4207,7 @@
     "lastNotified": "2021-06-23T08:00:00Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/60d2e907e0cf517ee463705f",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/60d2e907e0cf517ee463705f",
             "rel": "self"
         }
     ],
@@ -4218,7 +4218,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "60d2e907e0cf517ee463705f",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-06-25T07:39:32Z",
@@ -4227,7 +4227,7 @@
     "lastNotified": "2021-06-25T07:39:41Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/60d5870824c1c35c6160f794",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/60d5870824c1c35c6160f794",
             "rel": "self"
         }
     ],
@@ -4238,7 +4238,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "60d5870824c1c35c6160f794",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-06-29T09:30:26Z",
@@ -4247,7 +4247,7 @@
     "lastNotified": "2021-06-29T09:30:35Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/60dae7067da121779b445a92",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/60dae7067da121779b445a92",
             "rel": "self"
         }
     ],
@@ -4258,7 +4258,7 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "60dae7067da121779b445a92",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },
 {
     "resolved": "2021-07-07T15:03:04Z",
@@ -4267,7 +4267,7 @@
     "lastNotified": "2021-07-07T15:03:13Z",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/60e5c13718ddfb34fc0dedb7",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/60e5c13718ddfb34fc0dedb7",
             "rel": "self"
         }
     ],
@@ -4278,5 +4278,5 @@
     "eventTypeName": "CLUSTER_MONGOS_IS_MISSING",
     "id": "60e5c13718ddfb34fc0dedb7",
     "typeName": "CLUSTER",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 }
