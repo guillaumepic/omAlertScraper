@@ -44,7 +44,7 @@
     "groupId": "4f7c8cf1e3012913dfed97g",
     "metricName": "CONNECTIONS"
 },{
-    "hostnameAndPort": "ip-172-31-4-17.eu-west-2.compute.internal:27108",
+    "hostnameAndPort": "ip-node.member.domain.com:27108",
     "status": "OPEN",
     "currentValue": {
         "units": "RAW",
@@ -139,7 +139,7 @@
     "groupId": "4f7c8cf1e3012913dfed97g",
     "metricName": "CONNECTIONS"
 },{
-    "hostnameAndPort": "ip-172-31-4-17.eu-west-2.compute.internal:27019",
+    "hostnameAndPort": "ip-node.member.domain.com:27019",
     "status": "OPEN",
     "currentValue": {
         "units": "RAW",
@@ -210,7 +210,7 @@
     "groupId": "4f7c8cf1e3012913dfed97g",
     "metricName": "CONNECTIONS"
 },{
-    "hostnameAndPort": "ip-172-31-4-17.eu-west-2.compute.internal:27007",
+    "hostnameAndPort": "ip-node.member.domain.com:27007",
     "status": "OPEN",
     "currentValue": {
         "units": "RAW",
