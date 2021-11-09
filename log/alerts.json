@@ -7,7 +7,7 @@
     "hostId": "da32db3bda0a35aac1094f3b7db188d7",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/617c18e2f59ed46661dd8e92",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/617c18e2f59ed46661dd8e92",
             "rel": "self"
         }
     ],
@@ -18,7 +18,7 @@
     "id": "617c18e2f59ed46661dd8e92",
     "typeName": "HOST",
     "replicaSetName": "rsMO5",
-    "groupId": "5f7c5cc1e306913dd6fed87f"
+    "groupId": "4f7c8cf1e3012913dfed97g"
 },{
     "hostnameAndPort": "ip-172-31-2-236.eu-west-2.compute.internal:27107",
     "status": "OPEN",
@@ -29,7 +29,7 @@
     "hostId": "84bc34d065770159e9e4396dc80a1aff",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6182833ef1837b19ea21c315",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6182833ef1837b19ea21c315",
             "rel": "self"
         }
     ],
@@ -41,7 +41,7 @@
     "id": "6182833ef1837b19ea21c315",
     "typeName": "HOST_METRIC",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f",
+    "groupId": "4f7c8cf1e3012913dfed97g",
     "metricName": "CONNECTIONS"
 },{
     "hostnameAndPort": "ip-172-31-4-17.eu-west-2.compute.internal:27108",
@@ -53,7 +53,7 @@
     "hostId": "6b70f17efdbaf2c4b0d1cfe92b01556f",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6182833ef1837b19ea21c317",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6182833ef1837b19ea21c317",
             "rel": "self"
         }
     ],
@@ -65,10 +65,10 @@
     "id": "6182833ef1837b19ea21c317",
     "typeName": "HOST_METRIC",
     "replicaSetName": "rsGPI_1",
-    "groupId": "5f7c5cc1e306913dd6fed87f",
+    "groupId": "4f7c8cf1e3012913dfed97g",
     "metricName": "CONNECTIONS"
 },{
-    "hostnameAndPort": "ip-172-31-5-118.eu-west-2.compute.internal:27107",
+    "hostnameAndPort": "ip-node.member.domain.com:27107",
     "status": "OPEN",
     "currentValue": {
         "units": "RAW",
@@ -77,7 +77,7 @@
     "hostId": "080ceff687ca21e77e887656874c0f09",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6182833ef1837b19ea21c319",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6182833ef1837b19ea21c319",
             "rel": "self"
         }
     ],
@@ -89,10 +89,10 @@
     "id": "6182833ef1837b19ea21c319",
     "typeName": "HOST_METRIC",
     "replicaSetName": "rsGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f",
+    "groupId": "4f7c8cf1e3012913dfed97g",
     "metricName": "CONNECTIONS"
 },{
-    "hostnameAndPort": "ip-172-31-5-118.eu-west-2.compute.internal:27108",
+    "hostnameAndPort": "ip-node.member.domain.com:27108",
     "status": "OPEN",
     "currentValue": {
         "units": "RAW",
@@ -101,7 +101,7 @@
     "hostId": "22fc5797fac052b85d8bd67f9c46f7d2",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6182833ef1837b19ea21c31b",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6182833ef1837b19ea21c31b",
             "rel": "self"
         }
     ],
@@ -112,7 +112,7 @@
     "updated": "2021-11-03T17:43:43Z",
     "id": "6182833ef1837b19ea21c31b",
     "typeName": "HOST_METRIC",
-    "groupId": "5f7c5cc1e306913dd6fed87f",
+    "groupId": "4f7c8cf1e3012913dfed97g",
     "metricName": "CONNECTIONS"
 },{
     "hostnameAndPort": "ip-172-31-2-236.eu-west-2.compute.internal:27019",
@@ -124,7 +124,7 @@
     "hostId": "ec134e59ddbf06ff1a0fae0df646b6dd",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6182833ef1837b19ea21c31d",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6182833ef1837b19ea21c31d",
             "rel": "self"
         }
     ],
@@ -136,7 +136,7 @@
     "id": "6182833ef1837b19ea21c31d",
     "typeName": "HOST_METRIC",
     "replicaSetName": "cfgGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f",
+    "groupId": "4f7c8cf1e3012913dfed97g",
     "metricName": "CONNECTIONS"
 },{
     "hostnameAndPort": "ip-172-31-4-17.eu-west-2.compute.internal:27019",
@@ -148,7 +148,7 @@
     "hostId": "efff50ee2466339c92b5165adeaf8ba0",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6182833ef1837b19ea21c31f",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6182833ef1837b19ea21c31f",
             "rel": "self"
         }
     ],
@@ -160,10 +160,10 @@
     "id": "6182833ef1837b19ea21c31f",
     "typeName": "HOST_METRIC",
     "replicaSetName": "cfgGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f",
+    "groupId": "4f7c8cf1e3012913dfed97g",
     "metricName": "CONNECTIONS"
 },{
-    "hostnameAndPort": "ip-172-31-5-118.eu-west-2.compute.internal:27019",
+    "hostnameAndPort": "ip-node.member.domain.com:27019",
     "status": "OPEN",
     "currentValue": {
         "units": "RAW",
@@ -172,7 +172,7 @@
     "hostId": "852df2f20d5ba69c329b4336871b8fe3",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6182833ef1837b19ea21c321",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6182833ef1837b19ea21c321",
             "rel": "self"
         }
     ],
@@ -184,7 +184,7 @@
     "id": "6182833ef1837b19ea21c321",
     "typeName": "HOST_METRIC",
     "replicaSetName": "cfgGPI",
-    "groupId": "5f7c5cc1e306913dd6fed87f",
+    "groupId": "4f7c8cf1e3012913dfed97g",
     "metricName": "CONNECTIONS"
 },{
     "hostnameAndPort": "ip-172-31-2-236.eu-west-2.compute.internal:27007",
@@ -196,7 +196,7 @@
     "hostId": "90054443c8ef6a16db56cec9a4c6f2af",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6182837bf1837b19ea21c6aa",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6182837bf1837b19ea21c6aa",
             "rel": "self"
         }
     ],
@@ -207,7 +207,7 @@
     "updated": "2021-11-03T17:40:43Z",
     "id": "6182837bf1837b19ea21c6aa",
     "typeName": "HOST_METRIC",
-    "groupId": "5f7c5cc1e306913dd6fed87f",
+    "groupId": "4f7c8cf1e3012913dfed97g",
     "metricName": "CONNECTIONS"
 },{
     "hostnameAndPort": "ip-172-31-4-17.eu-west-2.compute.internal:27007",
@@ -219,7 +219,7 @@
     "hostId": "c53fa18d22c4a0c13362ac8ae51dc443",
     "links": [
         {
-            "href": "https://ec2-3-9-206-23.eu-west-2.compute.amazonaws.com:8443/api/public/v1.0/groups/5f7c5cc1e306913dd6fed87f/alerts/6182837bf1837b19ea21c6ac",
+            "href": "https://vip.opsmanager.com:8443/api/public/v1.0/groups/4f7c8cf1e3012913dfed97g/alerts/6182837bf1837b19ea21c6ac",
             "rel": "self"
         }
     ],
@@ -230,7 +230,7 @@
     "updated": "2021-11-03T17:40:43Z",
     "id": "6182837bf1837b19ea21c6ac",
     "typeName": "HOST_METRIC",
-    "groupId": "5f7c5cc1e306913dd6fed87f",
+    "groupId": "4f7c8cf1e3012913dfed97g",
     "metricName": "CONNECTIONS"
 },{
     "date": "2021-11-03 17:44:21.042509",
